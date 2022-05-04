@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatacaLucas
 
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on any company willing to hire .
+- 💞️ I’m looking to collaborate on anyone that needs my help .
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/matheus-bueno-lucas-874162234/
 
 <!---
