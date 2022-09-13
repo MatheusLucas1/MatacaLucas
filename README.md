@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matheus Lucas
 
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on anyone that needs my help .
+- 🌱 I’m currently learning Python and JavaScript 
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/matheus-bueno-lucas-874162234/
 
 <!---
